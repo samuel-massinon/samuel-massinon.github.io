@@ -1,5 +1,11 @@
 # Samuel Massinon
 
+Hi, thanks for checking my profile out. Have a great day and remember to drink some water.
+
+## Contact
+
+If you are interested in working together on something feel free to reach out to me on [linkdin](https://www.linkedin.com/in/samuel-massinon-2b218381/) or my email at samuel.massinon+development@gmail.com. I always happy to have a chat about anything. 
+
 ## Work Experience
 
 ### **JuliaHub** - _March 2024 to Present_
