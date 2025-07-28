@@ -6,13 +6,18 @@ Hi, thanks for checking my profile out. Have a great day and remember to drink s
 
 If you are interested in working together on something feel free to reach out to me on [linkedin](https://www.linkedin.com/in/samuel-massinon-2b218381/) or my [email](mailto:samuel.massinon+development@gmail.com?subject=Development). I always happy to have a chat about anything. 
 
+## Summary
+
+Software, Platform, & Infrastructure Engineer with 10+ years of experience building scalable, cost-efficient cloud systems. Specializing in Julia, AWS, and DevOps automation. Proven impact across ML infra, developer tooling, and cloud cost optimization.
+
 ## Work Experience
 
 ### **JuliaHub** - _March 2024 to Present_
 As a Software Engineer:
-- Refined the codebase to enable sandbox deployment without the need for infrastructure knowledge
-- Managed and updated the existing codebase and services while improving the infrastructure
-- Maintained, created, and updated custom users infrastructure environments
+- Created tooling for managing platforms from multiple runbooks to one line commands 
+- Tracked DORA metrics to improve developer teams efficiency
+- Simplified deployment by abstracting infrastructure complexity, empowering devs to deploy independently
+- Maintained, created, and updated customers unique production platforms
 
 ### **PumasAI** - _February 2023 to February 2024_
 As a Product Engineer:
@@ -63,4 +68,4 @@ As a Firefighter:
 - Certified Level 1 in accordance to National Fire Protection Association 1001
 
 ## Technical Skills
-Julia, Python, SQL (Postgres), Ruby, C, C#, AWS, GCP, Terraform (CDKTF), Kubernetes, Docker
+Julia, Python, SQL (Postgres), Ruby, C, AWS, GCP, Terraform (CDKTF), Kubernetes, Docker, Ansible, Grafana
